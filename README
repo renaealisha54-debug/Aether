@@ -1,0 +1,16 @@
+# README.md
+# Aether Engine
+
+Minimal React Native code editor with local storage.
+
+## Files
+- App.js
+- components/Header.js
+- components/Editor.js
+- services/StorageService.js
+
+## Install
+npm install @react-native-async-storage/async-storage
+
+## Run
+npx react-native run-android
